@@ -13,7 +13,7 @@ Building helpful products with clean architecture, AI, cloud, and passion.
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 
 ### 🚀 Projects
-- ![Vercel](https://img.shields.io/badge/Vercel-black?style=plastic&logo=vercel)
+- ![Vercel](https://img.shields.io/badge/Vercel-black?style=social&logo=vercel)
   [Memo AI App](https://memo-ai-app.vercel.app)
 
 ### 📫 Contact
