@@ -13,7 +13,7 @@ Building helpful products with clean architecture, AI, cloud, and passion.
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 
 ### 🚀 Projects
-- [Memo AI App](https://memo-ai-app.vercel.app)
+- [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=flat&logo=vercel)][Memo AI App](https://memo-ai-app.vercel.app)
 
 ### 📫 Contact
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jsu99053@gmail.com)
