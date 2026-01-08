@@ -15,7 +15,8 @@ Building helpful products with clean architecture, AI, cloud, and passion.
 ### 🚀 Projects
 - ![Vercel](https://img.shields.io/badge/Vercel-black?style=flat&logo=vercel)
   [Memo AI App](https://memo-ai-app.vercel.app)
-  https://github.com/jintheog/memo-ai-app
+
+    - https://github.com/jintheog/memo-ai-app
 
 ### 📫 Contact
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jsu99053@gmail.com)
