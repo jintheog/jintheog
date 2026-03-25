@@ -14,7 +14,10 @@ Building helpful products with clean architecture, AI, cloud, and passion.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ### 🚀 Projects
+
+- Memo AI App
     - https://github.com/jintheog/memo-ai-app
+
 - Developers' Social Network Service
     - https://github.com/jintheog/devSO-back
  
