@@ -14,6 +14,7 @@ Building helpful products with clean architecture, AI, cloud, and passion.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ### 🚀 Projects
 
