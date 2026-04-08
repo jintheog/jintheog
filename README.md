@@ -12,6 +12,8 @@ Building helpful products with clean architecture, AI, cloud, and passion.
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=flat&logoColor=white)
 
 ### 🚀 Projects
 
