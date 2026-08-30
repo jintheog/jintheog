@@ -18,9 +18,6 @@ Building helpful products with clean architecture, AI, cloud, and passion.
 
 ### 🚀 Projects
 
-- Memo AI App
-    - https://github.com/jintheog/memo-ai-app
-
 - Developers' Social Network Service
     - https://github.com/jintheog/devSO-back
  
